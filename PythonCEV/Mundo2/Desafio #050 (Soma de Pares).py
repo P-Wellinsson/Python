@@ -6,4 +6,3 @@ for i in range(6):
         num += n
         cont += 1
 print(f'A soma do(s) {cont} número(s) par(es) é igual á {num}')
- 

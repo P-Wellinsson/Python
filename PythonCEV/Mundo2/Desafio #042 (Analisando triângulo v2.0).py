@@ -6,7 +6,7 @@ if ret1 + ret2 > ret3 and ret1 + ret3 > ret2 and ret2 + ret3 > ret1:
     if ret1 == ret2 and ret1 == ret3: 
         print('Esse é um triândulo Equilátero!')
     elif ret1 == ret3 and ret1 != ret2 or ret2 == ret3 and ret2 != ret1 or ret1 != ret2 and ret2 != ret3:
-        print('E um triângulo Escaleno! ')  
+        print('Esse é um triângulo Escaleno! ')  
     else:
         print('Esse é um triângulo Isósceles!')
 else:

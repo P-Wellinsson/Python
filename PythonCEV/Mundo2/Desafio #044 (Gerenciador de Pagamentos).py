@@ -4,7 +4,7 @@ if preço <= 0:
     print('Valor incorreto')
 else:
     sleep(1)
-    print('''Digite[1] para pagamentos à vista/cheque
+    print('''    Digite[1] para pagamentos à vista/cheque
     Digite[2] para pagamentos à vista pelo cartão
     Digite[3] para pagamentos em até 2x no cartão
     Digite[4] para pagamentos de 3x ou mais pelo cartão''')
